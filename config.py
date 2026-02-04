@@ -21,7 +21,7 @@ NAME_SUBSTITUTE = ""
 FFMPEG_CMDS = {}
 UPLOAD_PATHS = {}
 # GDrive Tools
-GDRIVE_ID = "https://drive.google.com/drive/folders/1Zpx8eil_n-GqfQnlrB5gSx8o9wkTqa_d"
+GDRIVE_ID = "1Zpx8eil_n-GqfQnlrB5gSx8o9wkTqa_d"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = True
 INDEX_URL = ""
